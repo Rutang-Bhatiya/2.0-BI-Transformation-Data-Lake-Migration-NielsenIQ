@@ -1,4 +1,4 @@
-# BI Transformation & Data Lake Migration – NielsenIQ  
+# 2.0 BI Transformation & Data Lake Migration – NielsenIQ  
 **Modernizing Analytics from Legacy Reporting to Enterprise BI (Discover)**
 
 ---

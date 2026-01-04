@@ -139,7 +139,31 @@ Rather than pixel-perfect replication of old reports.
 
 ---
 
+## How This Repository Fits in the Bigger Journey
+
+This repository represents **Phase 1**
+
+- **Phase 1:** Reporting & Analytics Foundation [`Nielseniq-reporting-analytics-foundation`](https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/){:target="_blank"}
+- **Phase 2:** BI Transformation & Data Lake Migration [`Nielseniq-bi-transformation-discover (this repo)`](https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/)
+- **Phase 3:** Database Architecture & Business Translation [`Nielseniq-database-architecture-business-translation`](https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/){:target="_blank"}
+
+Each phase is documented separately for clarity and focus.
+
+---
 ## 🔐 Data Confidentiality
 
 All examples in this repository use **dummy data**.  
-No proprietary NielsenIQ systems, schemas, or customer information are exposed.
+No proprietary NielsenIQ systems, schemas, or client data are exposed.
+
+---
+
+## Navigation
+
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
+  *It contain links to My portfolio and all major pages and projects*
+
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
+  *Links to all Nielsen Repo*
+
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
+  *Links to all ECO3 Repo*
